@@ -9,7 +9,8 @@ x = input("x: ")
 y = input("y: ")
 
 # Prompt addition
-print(int(x) +int(y))
+z = (int(x) /int(y))
+print(f"{z:.50f}")
 
 
 #source cs50venv/bin/activate
