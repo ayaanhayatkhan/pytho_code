@@ -12,5 +12,4 @@ y = input("y: ")
 z = (int(x) /int(y))
 print(f"{z:.50f}")
 
-
 #source cs50venv/bin/activate
